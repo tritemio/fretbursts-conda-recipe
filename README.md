@@ -1,6 +1,6 @@
 # fretbursts-conda-recipe
 
-Conda recipe for [FRETBursts](https://github.com/tritemio/FRETBursts).
+[Conda](http://conda.pydata.org/) recipe for [FRETBursts](https://github.com/tritemio/FRETBursts).
 
 To install FRETBursts via conda, add the binstar channel:
 
